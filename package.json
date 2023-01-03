@@ -1,0 +1,13 @@
+{
+  "name": "Assesment",
+  "version": "1.0.0",
+  "description": "using react for font end , using express and mongo db for backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Md Saif Ur Rahman",
+  "license": "ISC"
+}
