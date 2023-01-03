@@ -59,6 +59,10 @@ function ExpenseFrom() {
             .catch(err => console.log(err.message))
     }, [])
 
+    const delayedValue = setTimeout(() => {
+        return formData.rupee
+    }, 2000);
+
     return (
         <div className='conatiner'>
             <Form onSubmit={onsubmit} >
